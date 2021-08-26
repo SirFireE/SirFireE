@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SirFireE
-- 👀 I’m interested in discord.js, python
-- 🌱 I’m currently learning discord.js
+- 👀 I’m interested in discord.js, python and java
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on: not anything at the moment :)
 - 📫 How to reach me: You don't.
 
