@@ -1,11 +1,22 @@
-- 👋 Hi, I’m @SirFireE!
-- 👀 I’m interested in JavaScript, Java, and PHP.
-- 🌱 I’m currently learning Java. (I am also learning how to fly but thats not relevant here :D )
-- 💞️ I’m looking to collaborate on: not anything at the moment :)
-- 📫 How to reach me: You don't.
-- My Website: https://themuffinsquid.000webhostapp.com
+![SirFire's Profile Image](./sirfire-profile-v2.png)
+# **All About SirFireE**
 
-<!---
-SirFireE/SirFireE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Greetings! I am SirFireE, or most commenly known as SirFire.
+I am a self tought programmer. I love to program solutions to problems.
+
+**I can currently program in:**
+- HTML (Hyper Text Markup Language)
+- JavaScript
+- CSS (Cascading Style Sheets)
+- PHP (Hypertext Preprocessor)
+- Java
+- Python
+
+**Social Pages:**
+- [Website - TheMuffinSquid Website](https://themuffinsquid.000webhostapp.com)
+- [YouTube - TheMuffinSquid](https://www.youtube.com/channel/UCGTfzbc6Q2VCw9WLggz1z9g)
+- [Discord Server - TheMuffinSquid Club](https://discord.gg/8bK7ubPs6E)
+
+---
+
+### Thanks for checking out my about page!
