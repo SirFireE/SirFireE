@@ -16,6 +16,7 @@ I am a self tought programmer. I love to program solutions to problems.
 - [Website - TheMuffinSquid Website](https://themuffinsquid.000webhostapp.com)
 - [YouTube - TheMuffinSquid](https://www.youtube.com/channel/UCGTfzbc6Q2VCw9WLggz1z9g)
 - [Discord Server - TheMuffinSquid Club](https://discord.gg/8bK7ubPs6E)
+- [Replit Profile](https://replit.com/@SirFire)
 
 ---
 
