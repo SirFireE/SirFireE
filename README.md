@@ -1,7 +1,7 @@
-![SirFire's Profile Image](./sirfire-profile-v2.png)
+![SirFire's Profile Image](./sirfire-profile.png)
 # **All About SirFireE**
 
-Greetings! I am SirFireE, or most commenly known as SirFire.
+Greetings! I am SirFire.
 I am a self tought programmer. I love to program solutions to problems.
 
 **I can currently program in:**
@@ -13,8 +13,9 @@ I am a self tought programmer. I love to program solutions to problems.
 - Python
 
 **Social Pages:**
+- [Website - SirFire DevHub](https://sirfire-dev.web.app)
 - [Website - TheMuffinSquid Website](https://themuffinsquid.000webhostapp.com)
-- [YouTube - TheMuffinSquid](https://www.youtube.com/channel/UCGTfzbc6Q2VCw9WLggz1z9g)
+- [YouTube - TheMuffinSquid](https://www.youtube.com/@themuffinsquid)
 - [Discord Server - TheMuffinSquid Club](https://discord.gg/8bK7ubPs6E)
 - [Replit Profile](https://replit.com/@SirFire)
 
