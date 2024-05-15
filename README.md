@@ -11,12 +11,11 @@ I am a self tought programmer. I love to program solutions to problems.
 - PHP (Hypertext Preprocessor)
 - Java
 - Python
+- Dart
 
 **Social Pages:**
 - [Website - SirFire DevHub](https://sirfire-dev.web.app)
-- [Website - TheMuffinSquid Website](https://themuffinsquid.000webhostapp.com)
 - [YouTube - TheMuffinSquid](https://www.youtube.com/@themuffinsquid)
-- [Discord Server - TheMuffinSquid Club](https://discord.gg/8bK7ubPs6E)
 - [Replit Profile](https://replit.com/@SirFire)
 
 ---
